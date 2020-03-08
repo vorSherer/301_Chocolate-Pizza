@@ -1,7 +1,7 @@
 # 301_Chocolate-Pizza
 301 Pre-Work version of Chocolate Pizza
 
-Author: Thomas Sherer (together with Kai Hansen on the original work.)
+Author: Thomas Sherer (together with Kai (Elizabeth) Hansen on the original work.)
 
 ## Links and Resources
 submission PR
