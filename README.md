@@ -18,7 +18,7 @@ Any Links you used as reference
 None.
 
 ## Running the app
-Run via live-server.
+Launch from VS Code or terminal using live-server.
 
 ## Reflections and Comments
 Consider including the answers to your daily journal and submission questions here
