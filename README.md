@@ -15,7 +15,7 @@ https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap
 Any Links you used as reference
 
 ## Setup
-
+None.
 
 ## Running the app
 Run via live-server.
