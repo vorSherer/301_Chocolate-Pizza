@@ -1,7 +1,13 @@
+* {
+    margin: auto;
+    width: 960px;
+}
+
+
 body {
     background-color: white;
     color: black;
-    width: 960px;
+    width: 704px;
     margin: auto;
 }
 
@@ -9,8 +15,13 @@ header {
     width: 100%;
     float: left;
 }
-.bar {
+
+.barLeft {
     float: left;
+}
+
+.barRight {
+    float: right;
 }
 
 .bar:p {
@@ -34,6 +45,7 @@ header {
 .postdate {
     font-family: 'Abel', sans-serif;
 }
+
 p {
     text-indent: 20px;
     font-family: 'Times New Roman', Times, serif;
@@ -48,7 +60,6 @@ p {
 .ingred1 {
     float: left;
     margin: 40px 40px 40px 40px;
-
 }
 
 .ingred2 {
